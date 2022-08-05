@@ -1,4 +1,4 @@
-### Hey, GhoulBox Here!
+### Hey, GhoulBox here!
 I make some cool projects in C#. Check them out!
 
 ![https://discord.com/users/532389940965933068](https://discord.c99.nl/widget/theme-4/532389940965933068.png)
